@@ -1,0 +1,4 @@
+A@4,C In Depth,shnvastav,BPB,2,2,2016-07-20
+B@1,DBMs,Korth,Pearson,3,0,2016-07-19
+G@12,Let's see,yashwant,BPB,10,0,2021-05-08
+K@8,Networking,Forouzan,Tala MC,5,0,2021-05-08
